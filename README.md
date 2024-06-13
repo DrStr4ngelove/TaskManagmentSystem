@@ -1,5 +1,5 @@
 # Task Management System
-## Features:
+## Features to be implemented:
 ### User Authentication:
 
 Sign up, login, logout functionality.
